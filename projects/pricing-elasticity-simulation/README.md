@@ -1,14 +1,28 @@
 # Pricing Elasticity Simulation
 
-This project explores how changes in price affect demand and revenue using simulated data.
+This project explores how changes in price affect demand and revenue using a simulated dataset.
 
 ## Goal
 
-The goal of this project is to understand the relationship between pricing and consumer behavior, and to demonstrate how data modeling can inform pricing decisions in a product or business context.
+Model a simple relationship between price and quantity demanded, and use it to:
 
-## What’s included
+- Visualize how demand changes with price
+- Estimate an "optimal" price range for revenue
+- Practice thinking like a product or pricing analyst
 
-- A simulated dataset representing user prices and purchase behavior  
-- An analysis of demand and revenue across price points  
-- Visualizations that highlight pricing trade-offs  
-- A short discussion of insights and recommendations
+## Tools
+
+- R
+- `tidyverse` (or base R)
+- Basic plotting functions (`ggplot2` if available)
+
+## Questions I Consider
+
+1. How does demand change as price increases?
+2. At what price range is revenue maximized in this simulated scenario?
+3. How sensitive are conclusions to assumptions about user behavior?
+
+## Files
+
+- `pricing_elasticity_analysis.R` — generates the simulated data, runs analysis, and creates plots.
+
