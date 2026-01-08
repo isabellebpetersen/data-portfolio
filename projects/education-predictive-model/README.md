@@ -1,4 +1,4 @@
-# Education Prediction Model (Simulated Learner Data)
+# Closing the Gap in Higher Education: Factors in Student Success on CLEP Exams
 
 This project was the culmination of all of my math and computer science studies at Fordham, in a field I was passionate about. With a rigorous statistical lens, I looked at attributes of students taking CLEP exams and analyzed whether or not these attributes were correlated with success on the exam, looking for trends that can be used to understand the gaps in accessibility to higher education. I also propose targeted interventions based on my findings to work toward closing these gaps.
 
