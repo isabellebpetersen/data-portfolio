@@ -3,7 +3,7 @@
 
 Hi! I’m Izzy, a data analyst and Math & Computer Science grad based in New York with a strong interest in turning data into clear, actionable insights.
 
-This portfolio highlights selected projects focused on predictive modeling, business insights, user behavior analysis, and visual storytelling. My work reflects both analytical rigor and creativity, with experience using data to inform decisions in education, product, and customer-focused contexts.
+I created this portfolio to highlight selected projects, both from my time at school and done on my own time, that focused on predictive modeling, business insights, and visual storytelling. My work always emphasizes a strong level of analytical rigor but also creativity; I like to think out of the box to represent and solve problems  I have experience using data to inform decisions in education, product, and customer-focused contexts.
 
 ## Projects
 
