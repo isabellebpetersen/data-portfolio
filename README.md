@@ -16,3 +16,7 @@ This portfolio highlights selected projects focused on predictive modeling, busi
 A simulated analysis exploring how changes in price affect demand and revenue, using data modeling to inform pricing decisions.
 
 ### [Senior Thesis: Statistical Models For Higher Education](<Senior Thesis: Statistical Model in Higher Education>)
+
+### [Visual Arts & Design](<Visual Arts & Design>)
+
+### [Workflow Efficiency Analysis](<Workflow Efficiency Analysis>) 
