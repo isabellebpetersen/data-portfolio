@@ -9,11 +9,13 @@ I created this portfolio to highlight selected projects, both from my time at sc
 
 ### [Ad Performance Metrics](<projects/Ad Performance Metrics>)
 
+An analysis on mock data to practice using real-world advertising metrics to inform business decisions in a simulated environment.
+
 ### [Customer Health Risk](<projects/Customer Health Risk>)
 
 ### [Pricing Elasticity Simulation](<projects/Pricing Elasticity Simulation>)
 
-A simulated analysis exploring how changes in price affect demand and revenue, using data modeling to inform pricing decisions.
+A simulation exploring how changes in price affect demand and revenue, using data modeling to inform pricing decisions.
 
 ### [Senior Thesis: Statistical Models for Higher Education](<projects/Senior Thesis>)
 
