@@ -4,7 +4,7 @@ This project was the culmination of all of my math and computer science studies 
 
 For a visual walk-through of my project including notes and images from my presentation slides, click here.
 
-For the full text of my thesis including rigorous mathematical hypothesis testing, click here.
+For the full text of my thesis including rigorous mathematical hypothesis testing, click [here](<Thesis Full Text.pdf>).
 
 ## Goal
 
