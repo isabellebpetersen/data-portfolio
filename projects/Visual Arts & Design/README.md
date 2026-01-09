@@ -3,7 +3,7 @@
 In my free time, I do a lot with graphic design. I love being able to creatively organize and expres my ideas on paper, and I especially love helping other people's visions come to life.
 
 At Fordham, I spent some time on the *Fordham Observer* (Fordham Lincoln Center's newspaper) as a graphics contributor. I mainly used Canva for my designs, as well as Adobe Illustrator and Photoshop.
-Examples of my work on the Observer can be found here. 
+Examples of my work on the Observer can be found [here](Observer). 
 
 I also enjoy making hand-painted banners for birthday parties, allowing me to experiment with a variety of different aesthetics. Every banner I create is an original design I created, sometimes in collaboration with the person who's hosting the party to make sure I nailed the aesthetic they were picturing.
 Examples of some banners I've made (and mockups for some upcoming ones) can be found here.
