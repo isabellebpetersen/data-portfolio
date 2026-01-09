@@ -6,7 +6,7 @@ At Fordham, I spent some time on the *Fordham Observer* (Fordham Lincoln Center'
 Examples of my work on the Observer can be found [here](Observer). 
 
 I also enjoy making hand-painted banners for birthday parties, allowing me to experiment with a variety of different aesthetics. Every banner I create is an original design I created, sometimes in collaboration with the person who's hosting the party to make sure I nailed the aesthetic they were picturing.
-Examples of some banners I've made (and mockups for some upcoming ones) can be found here.
+Examples of some banners I've made (and mockups for some upcoming ones) can be found [here](Bullet Journal).
 
 On a more personal note, I also keep a bullet journal (and have since I was in high school) that I use like a planner, tracker, and place to dump my thoughts, lists, and anything else I need to keep organized. For me this is a place for me to experiment with design in a low-stakes environment (since it's just for me) but I'm incredibly proud of how I've used it over the years to keep myself organized and find a unique style that works for me. 
 Some of my favorite spreads can be found here.
