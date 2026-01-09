@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-**Isabelle Petersen**
+### Isabelle Petersen
 
 Hi! I’m Izzy, a data analyst and Math & Computer Science grad based in New York with a strong interest in turning data into clear, actionable insights.
 
@@ -7,6 +7,12 @@ This portfolio highlights selected projects focused on predictive modeling, busi
 
 ## Projects
 
-### Pricing Elasticity Simulation
+### [Ad Performance Metrics](<Ad Performance Metrics>)
+
+### [Customer Health Risk](<Customer Health Risk>)
+
+### [Pricing Elasticity Simulation](<Pricing Elasticity Simulation>)
 
 A simulated analysis exploring how changes in price affect demand and revenue, using data modeling to inform pricing decisions.
+
+### [Senior Thesis: Statistical Models For Higher Education](<Senior Thesis: Statistical Model in Higher Education>)
