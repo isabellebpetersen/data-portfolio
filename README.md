@@ -7,16 +7,16 @@ I created this portfolio to highlight selected projects, both from my time at sc
 
 ## Projects
 
-### [Ad Performance Metrics](<Ad Performance Metrics>)
+### [Ad Performance Metrics](<projects/Ad Performance Metrics>)
 
-### [Customer Health Risk](<Customer Health Risk>)
+### [Customer Health Risk](<projects/Customer Health Risk>)
 
-### [Pricing Elasticity Simulation](<Pricing Elasticity Simulation>)
+### [Pricing Elasticity Simulation](<projects/Pricing Elasticity Simulation>)
 
 A simulated analysis exploring how changes in price affect demand and revenue, using data modeling to inform pricing decisions.
 
-### [Senior Thesis: Statistical Models for Higher Education](<Senior Thesis>)
+### [Senior Thesis: Statistical Models for Higher Education](<projects/Senior Thesis>)
 
-### [Visual Arts & Design](<Visual Arts & Design>)
+### [Visual Arts & Design](<projects/Visual Arts & Design>)
 
-### [Workflow Efficiency Analysis](<Workflow Efficiency Analysis>) 
+### [Workflow Efficiency Analysis](<projects/Workflow Efficiency Analysis>)
